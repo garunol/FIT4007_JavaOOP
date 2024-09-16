@@ -5,8 +5,8 @@ public class Main {
             // Setup
             int sum = 0;
             int count = 0;
-            int number = 0;
 
+            int number = 0;
             // Process
             while (count < 10) {
                 if (number % 2 == 0) {
